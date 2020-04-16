@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.corFundo {
+    background-color: white;
+}
+
+.titulo {
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+}
+
+.centralizado {
+    text-align: block;
+
+}

@@ -1,0 +1,14 @@
+{
+    "name": "bruno/thiago",
+    "description": "Prova N1",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thiago Dias",
+            "email": "thiago_dasd@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

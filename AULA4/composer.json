@@ -1,0 +1,16 @@
+{
+    "name": "bruno/app",
+    "description": "Cria\u0000\u0000o projeto composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Bruno Rocha",
+            "email": "brunorochaamaral@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev"
+    }
+}

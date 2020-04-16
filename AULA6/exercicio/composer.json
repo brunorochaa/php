@@ -1,0 +1,14 @@
+{
+    "name": "bruno/exercicio",
+    "description": "aula",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno",
+            "email": "brunorochaamaral@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

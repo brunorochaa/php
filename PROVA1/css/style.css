@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(0, 204, 255);
+    font-family: Arial, sans-serif;
+    margin-top: 18px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}

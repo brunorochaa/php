@@ -1,0 +1,16 @@
+{
+    "name": "bruno/exercicio",
+    "description": "exercicio aula",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno",
+            "email": "brunorochaamaral@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev"
+    }
+}

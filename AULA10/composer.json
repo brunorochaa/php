@@ -1,0 +1,14 @@
+{
+    "name": "bruno/aula10",
+    "description": "aula",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Rcoha",
+            "email": "brunorochaamaral@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

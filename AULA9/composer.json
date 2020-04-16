@@ -1,0 +1,14 @@
+{
+    "name": "bruno/aula9manha",
+    "description": "exemplo funções",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Rocha",
+            "email": "brunorochaamaral@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

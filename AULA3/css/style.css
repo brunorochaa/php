@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    background-color: #17a2b8;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+li, a{
+    color: black;
+    list-style-type: none;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+li a:hover {
+    color: blue;
+  }
